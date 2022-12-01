@@ -11,4 +11,4 @@ Nakazuje się:
 
 W razie chęci nawiązania współpracy prosimy o kontakt na mail: kontakt@otherkey.pl
 
-#Autor paczki: Kaps3l
+#Autorzy paczki: Kaps3l, YellowFellow
