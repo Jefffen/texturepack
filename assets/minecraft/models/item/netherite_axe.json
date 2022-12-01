@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_axe"
+  },
+  "overrides": [
+       {"predicate": {"custom_model_data":1}, "model": "item/custom_items/topory/trojzab1"},
+       {"predicate": {"custom_model_data":2}, "model": "item/custom_items/topory/topor1"},
+       {"predicate": {"custom_model_data":3}, "model": "item/custom_items/miecze/miecz_zalu"},
+       {"predicate": {"custom_model_data":4}, "model": "item/custom_items/topory/BanHammer"},
+       {"predicate": {"custom_model_data":5}, "model": "item/custom_items/topory/anielska_sprawiedliwosc"},
+       {"predicate": {"custom_model_data":6}, "model": "item/custom_items/topory/elektryczny_trojzab"},
+       {"predicate": {"custom_model_data":7}, "model": "item/custom_items/topory/kosmiczne_ostrze_roslinne"},
+       {"predicate": {"custom_model_data":8}, "model": "item/custom_items/topory/mlot_ciezkich_katuszy"},
+       {"predicate": {"custom_model_data":9}, "model": "item/custom_items/topory/ostrze_ostrzy"},
+       {"predicate": {"custom_model_data":10}, "model": "item/custom_items/topory/runiczny_kataklizm"},
+       {"predicate": {"custom_model_data":11}, "model": "item/custom_items/topory/topor_lodowego_powitania"}
+              ]
+}

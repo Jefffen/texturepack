@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/item/stalkrasnol"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/item/slonstal"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom_items/item/valyrstal"}
+   
+  ]
+
+
+}
