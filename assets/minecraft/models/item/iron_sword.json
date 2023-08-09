@@ -8,7 +8,13 @@
     {"predicate": {"custom_model_data":1}, "model": "item/custom_items/dagger/sztylet1"},
     {"predicate": {"custom_model_data":2}, "model": "item/custom_items/dagger/sztylet2"},
     {"predicate": {"custom_model_data":3}, "model": "item/custom_items/dagger/sztylet3"},
-    {"predicate": {"custom_model_data":4}, "model": "item/custom_items/dagger/sztyletstartowy"}
+    {"predicate": {"custom_model_data":4}, "model": "item/custom_items/dagger/sztyletstartowy"},
+
+    {"predicate": {"custom_model_data":50}, "model": "item/custom_items/nexusset/sztylet"},
+    {"predicate": {"custom_model_data":51}, "model": "item/custom_items/nexusset/topur"},
+    {"predicate": {"custom_model_data":55}, "model": "item/custom_items/nexusset/sword"},
+    {"predicate": {"custom_model_data":56}, "model": "item/custom_items/nexusset/trident"}
+
   ]
 
 

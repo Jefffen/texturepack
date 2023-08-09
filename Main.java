@@ -1,3 +1,4 @@
+import java.awt.*;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -11,19 +12,20 @@ public class Main {
     /**
      * Tu umieszczasz scieżkę, gdzie pliki mają trafić po uruchomieniu
      */
-    //private static String destinationPath = "C:\\PATH\\TO\\FILE";
+    private static String destinationPath = "C:\\PATH\\TO\\FILE";
 
-    private static String destinationPath = "C:\\Users\\Panda\\Desktop\\DRFT";
+
     private static final boolean debug = false;
 
 
 
+    private static final boolean test = true;
 
     private static final Set<String> allowed = Set.of("pack.mcmeta", "pack.png", "copyright.txt");
 
     public static void main(String[] args) {
         String sourcePath = System.getProperty("project.dir");
-        destinationPath = destinationPath + "\\SkyMMO";
+        destinationPath = destinationPath + "\\SkyMMO" + (test ? "-t":"");
 
 
         try {
@@ -57,6 +59,7 @@ public class Main {
                 });
             }
             System.out.println("Kopiowanie zakończone!");
+            Toolkit.getDefaultToolkit().beep();
 
         } catch (IOException e){
             if (debug) {
