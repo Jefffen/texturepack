@@ -50,7 +50,6 @@ public class Main {
             try (Stream<Path> filesStream = Files.walk(source)) {
                 filesStream.forEach(sourceFile -> {
                     if (allowed.contains(sourceFile.getFileName().toString()) || sourceFile.toString().contains("assets")) {
-                        System.out.println(sourceFile.getFileName());
                         try {
                             Path destinationFile = destination.resolve(source.relativize(sourceFile));
                             Files.copy(sourceFile, destinationFile, StandardCopyOption.REPLACE_EXISTING);
