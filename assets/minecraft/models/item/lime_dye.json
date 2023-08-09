@@ -5,7 +5,13 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/gu/on"}
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/gu/on"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/item/prz1"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom_items/item/prz2"},
+    {"predicate": {"custom_model_data":4}, "model": "item/custom_items/item/prz3"},
+    {"predicate": {"custom_model_data":5}, "model": "item/custom_items/item/exp10"},
+    {"predicate": {"custom_model_data":6}, "model": "item/custom_items/item/exp20"},
+    {"predicate": {"custom_model_data":7}, "model": "item/custom_items/item/exp30"}
   ]
 
 

@@ -5,7 +5,9 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/item/starozmoneta"}
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/item/starozmoneta"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/item/kamien_gorniczy"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom_items/item/ewo_rozdymka"}
    
   ]
 

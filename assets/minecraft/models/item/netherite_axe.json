@@ -7,7 +7,7 @@
        {"predicate": {"custom_model_data":1}, "model": "item/custom_items/topory/trojzab1"},
        {"predicate": {"custom_model_data":2}, "model": "item/custom_items/topory/topor1"},
        {"predicate": {"custom_model_data":3}, "model": "item/custom_items/miecze/miecz_zalu"},
-       {"predicate": {"custom_model_data":4}, "model": "item/custom_items/topory/BanHammer"},
+       {"predicate": {"custom_model_data":4}, "model": "item/custom_items/topory/banhammer"},
        {"predicate": {"custom_model_data":5}, "model": "item/custom_items/topory/anielska_sprawiedliwosc"},
        {"predicate": {"custom_model_data":6}, "model": "item/custom_items/topory/elektryczny_trojzab"},
        {"predicate": {"custom_model_data":7}, "model": "item/custom_items/topory/kosmiczne_ostrze_roslinne"},

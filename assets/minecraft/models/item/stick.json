@@ -6,7 +6,8 @@
 
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "item/custom_items/wand/ice_wand"},
-    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/wand/ice_wand_defrosted"}
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/wand/ice_wand_defrosted"},
+    {"predicate": {"custom_model_data":101}, "model": "item/custom_items/kosa/sierp"}
   ]
 
 

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "custom/amulet/huj"
+    "layer0": "custom/amulet/7"
   },
   "gui_light": "front",
   "display": {

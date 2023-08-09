@@ -9,6 +9,8 @@
     {"predicate": {"custom_model_data":2}, "model": "item/custom_items/gu/plecak"},
     {"predicate": {"custom_model_data":3}, "model": "item/custom_items/gu/invent"},
     {"predicate": {"custom_model_data":4}, "model": "item/custom_items/gu/menu"},
-    {"predicate": {"custom_model_data":5}, "model": "item/custom_items/gu/kosz"}
+    {"predicate": {"custom_model_data":5}, "model": "item/custom_items/gu/kosz"},
+    {"predicate": {"custom_model_data":6}, "model": "item/custom_items/gu/nothing"},
+    {"predicate": {"custom_model_data":7}, "model": "item/custom_items/gu/equ"}
   ]
 }

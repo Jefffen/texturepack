@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "custom/gloves/1"
+    "layer0": "custom/earrings/arcymaga_kolczyki"
   },
   "gui_light": "front",
   "display": {

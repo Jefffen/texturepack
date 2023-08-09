@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cod"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/fish/karas"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/fish/sledz"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom_items/fish/karp"},
+    {"predicate": {"custom_model_data":4}, "model": "item/custom_items/fish/halibut"},
+    {"predicate": {"custom_model_data":6}, "model": "item/custom_items/fish/antar"},
+    {"predicate": {"custom_model_data":7}, "model": "item/custom_items/fish/ryba"}
+   
+  ]
+
+
+}

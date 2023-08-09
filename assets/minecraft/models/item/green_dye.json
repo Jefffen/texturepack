@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/green_dye"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/quest/b_chm"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/quest/z_chm"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom_items/quest/lb1"},
+    {"predicate": {"custom_model_data":4}, "model": "item/custom_items/quest/lb2"},
+    {"predicate": {"custom_model_data":5}, "model": "item/custom_items/quest/wilcza_skora"},
+    {"predicate": {"custom_model_data":6}, "model": "item/custom_items/quest/arkt_futro"},
+    {"predicate": {"custom_model_data":7}, "model": "item/custom_items/quest/l_ogon"},
+    {"predicate": {"custom_model_data":8}, "model": "item/custom_items/quest/gl_polarnego"},
+    {"predicate": {"custom_model_data":9}, "model": "item/custom_items/quest/kufer"},
+    {"predicate": {"custom_model_data":10}, "model": "item/custom_items/quest/zagiel"},
+    {"predicate": {"custom_model_data":11}, "model": "item/custom_items/quest/krysztal"},
+    {"predicate": {"custom_model_data":12}, "model": "item/custom_items/quest/paczka_b"},
+    {"predicate": {"custom_model_data":13}, "model": "item/custom_items/quest/worek_monet"},
+    {"predicate": {"custom_model_data":14}, "model": "item/custom_items/quest/kielich"},
+    {"predicate": {"custom_model_data":15}, "model": "item/custom_items/quest/list"},
+    {"predicate": {"custom_model_data":16}, "model": "item/custom_items/quest/beczka"},
+    {"predicate": {"custom_model_data":17}, "model": "item/custom_items/quest/kufer1"},
+    {"predicate": {"custom_model_data":18}, "model": "item/custom_items/quest/ess_ognia"},
+    {"predicate": {"custom_model_data":19}, "model": "item/custom_items/quest/paczkaklucz"},
+    {"predicate": {"custom_model_data":1001}, "model": "item/custom_items/trofea/t1"},
+    {"predicate": {"custom_model_data":1002}, "model": "item/custom_items/trofea/t2"},
+    {"predicate": {"custom_model_data":1003}, "model": "item/custom_items/trofea/t3"},
+    {"predicate": {"custom_model_data":1004}, "model": "item/custom_items/trofea/tdt1"},
+    {"predicate": {"custom_model_data":1005}, "model": "item/custom_items/trofea/tdt2"}
+  ]
+
+
+}

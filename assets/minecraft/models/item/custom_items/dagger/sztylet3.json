@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/bas",
-		"1": "block/neth",
+		"1": "block/neth2",
 		"particle": "block/bas"
 	},
 	"elements": [

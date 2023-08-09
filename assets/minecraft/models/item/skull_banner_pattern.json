@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/skull_banner_pattern"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/item/przep1"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom_items/item/przep2"},
+    {"predicate": {"custom_model_data":4}, "model": "item/custom_items/item/przep3"},
+    {"predicate": {"custom_model_data":5}, "model": "item/custom_items/item/przepdt"}
+  ]
+
+
+}

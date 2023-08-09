@@ -11,15 +11,10 @@ public class Main {
     /**
      * Tu umieszczasz scieżkę, gdzie pliki mają trafić po uruchomieniu
      */
-    private static String destinationPath = "C:\\PATH\\TO\\FILE";
+    //private static String destinationPath = "C:\\PATH\\TO\\FILE";
 
-
-
+    private static String destinationPath = "C:\\Users\\Panda\\Desktop\\DRFT";
     private static final boolean debug = false;
-
-
-
-
 
 
 
