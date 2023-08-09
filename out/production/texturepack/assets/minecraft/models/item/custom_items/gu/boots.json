@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom/gui/boots"
+  },
+  "gui_light": "front",
+  "display": {
+          "gui": {
+                  "translation": [0, 0, 0],
+                  "scale": [0.8, 0.8, 0.8]
+		 }
+  }
+}

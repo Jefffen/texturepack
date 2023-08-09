@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_hoe"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/staff/Kostur1"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/staff/ice_staff"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom_items/staff/kostur_startowy"}
+  ]
+
+
+}

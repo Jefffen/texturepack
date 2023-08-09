@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/wand/ice_wand"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/wand/ice_wand_defrosted"}
+  ]
+
+
+}

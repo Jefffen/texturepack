@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/blue_stained_glass"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/gu/arrow_left"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom_items/gu/arrow_right"}
+  ]
+
+
+}
