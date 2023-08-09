@@ -1,9 +1,8 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "minecraft:item/red_dye"
+    "layer0": "item/red_dye"
   },
-
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "item/custom_items/item/ruby"},
     {"predicate": {"custom_model_data":100}, "model": "item/custom_items/item/zolcniedziw"},
@@ -87,6 +86,27 @@
     {"predicate": {"custom_model_data":637}, "model": "item/custom_items/akcesoria/star_rece"},
     {"predicate": {"custom_model_data":638}, "model": "item/custom_items/akcesoria/star_amulet"},
     {"predicate": {"custom_model_data":639}, "model": "item/custom_items/akcesoria/grzib_amulet"},
+
+    {"predicate": {"custom_model_data":640}, "model": "item/custom_items/akcesoria/amulet_ziel"},
+    {"predicate": {"custom_model_data":641}, "model": "item/custom_items/akcesoria/bransa_ziel"},
+    {"predicate": {"custom_model_data":642}, "model": "item/custom_items/akcesoria/balsam"},
+    {"predicate": {"custom_model_data":643}, "model": "item/custom_items/akcesoria/orb_lodzia"},
+    {"predicate": {"custom_model_data":644}, "model": "item/custom_items/akcesoria/talizman_handlarza"},
+    {"predicate": {"custom_model_data":645}, "model": "item/custom_items/akcesoria/magmowa_bransoleta"},
+    {"predicate": {"custom_model_data":646}, "model": "item/custom_items/akcesoria/magmowy_pierscien"},
+    {"predicate": {"custom_model_data":647}, "model": "item/custom_items/akcesoria/demoniczna_ksiega"},
+    {"predicate": {"custom_model_data":648}, "model": "item/custom_items/akcesoria/diabelski_niesmiertelnik"},
+    {"predicate": {"custom_model_data":649}, "model": "item/custom_items/akcesoria/kielich_wiecznej_mocy"},
+    {"predicate": {"custom_model_data":650}, "model": "item/custom_items/akcesoria/magmowa_esencja"},
+    {"predicate": {"custom_model_data":651}, "model": "item/custom_items/akcesoria/magmowe_serce"},
+    {"predicate": {"custom_model_data":652}, "model": "item/custom_items/akcesoria/magmowy_kiel"},
+    {"predicate": {"custom_model_data":653}, "model": "item/custom_items/akcesoria/magmowy_klejnot"},
+    {"predicate": {"custom_model_data":654}, "model": "item/custom_items/akcesoria/siarkowe_serce"},
+    {"predicate": {"custom_model_data":655}, "model": "item/custom_items/item/peleryna_mestwa"},
+    {"predicate": {"custom_model_data":656}, "model": "item/custom_items/item/dusza1"},
+    {"predicate": {"custom_model_data":657}, "model": "item/custom_items/item/dusza2"},
+    {"predicate": {"custom_model_data":658}, "model": "item/custom_items/item/kamien_prowokacji"},
+
     {"predicate": {"custom_model_data":900}, "model": "item/custom_items/item/v_plecak"},
     {"predicate": {"custom_model_data":920}, "model": "item/custom_items/pet/karma1"},
     {"predicate": {"custom_model_data":921}, "model": "item/custom_items/pet/karma2"},
@@ -100,6 +120,5 @@
     {"predicate": {"custom_model_data":1004}, "model": "item/custom_items/item/owoc3"},
     {"predicate": {"custom_model_data":1005}, "model": "item/custom_items/item/owoc4"},
     {"predicate": {"custom_model_data":1051}, "model": "item/custom_items/item/zlodziej"},
-    {"predicate": {"custom_model_data":2001}, "model": "item/custom_items/item/anubis"}
-  ]
+    {"predicate": {"custom_model_data":2001}, "model": "item/custom_items/item/anubis"}]
 }

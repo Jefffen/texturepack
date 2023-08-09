@@ -28,8 +28,11 @@
     {"predicate": {"custom_model_data":1002}, "model": "item/custom_items/trofea/t2"},
     {"predicate": {"custom_model_data":1003}, "model": "item/custom_items/trofea/t3"},
     {"predicate": {"custom_model_data":1004}, "model": "item/custom_items/trofea/tdt1"},
-    {"predicate": {"custom_model_data":1005}, "model": "item/custom_items/trofea/tdt2"}
+    {"predicate": {"custom_model_data":1005}, "model": "item/custom_items/trofea/tdt2"},
+    {"predicate":{"custom_model_data":1006},"model":"item/custom_items/trofea/t4"}
+
+
+
+
   ]
-
-
 }

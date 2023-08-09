@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/quartz"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 443}, "model": "item/custom_items/zielarstwo/ziele7"},
+    {"predicate": {"custom_model_data": 444}, "model": "item/custom_items/zielarstwo/ziele6"},
+    {"predicate": {"custom_model_data": 447}, "model": "item/custom_items/zielarstwo/ziele5"},
+    {"predicate": {"custom_model_data": 448}, "model": "item/custom_items/zielarstwo/ziele4"},
+    {"predicate": {"custom_model_data": 449}, "model": "item/custom_items/zielarstwo/ziele3"},
+    {"predicate": {"custom_model_data": 450}, "model": "item/custom_items/zielarstwo/ziele2"},
+    {"predicate": {"custom_model_data": 451}, "model": "item/custom_items/zielarstwo/ziele1"},
+    {"predicate": {"custom_model_data": 452}, "model": "item/custom_items/zielarstwo/grzyb_zel_1"}
+
+
+
+
+  ]
+}

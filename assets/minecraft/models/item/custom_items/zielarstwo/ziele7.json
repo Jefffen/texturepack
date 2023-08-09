@@ -3,8 +3,8 @@
 	"parent": "ziele7",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "jbwm/zielarstwo/ziele7",
-		"particle": "jbwm/zielarstwo/ziele7"
+		"0": "custom/zielarstwo/ziele7",
+		"particle": "custom/zielarstwo/ziele7"
 	},
 	"elements": [
 		{

@@ -3,8 +3,8 @@
 	"parent": "grzyb_zel_1",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "jbwm/zielarstwo/grzyb_zel_1",
-		"particle": "jbwm/zielarstwo/grzyb_zel_1"
+		"0": "custom/zielarstwo/grzyb_zel_1",
+		"particle": "custom/zielarstwo/grzyb_zel_1"
 	},
 	"elements": [
 		{

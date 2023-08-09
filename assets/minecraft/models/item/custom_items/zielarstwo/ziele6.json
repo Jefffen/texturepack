@@ -3,7 +3,7 @@
 	"parent": "ziele6",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "jbwm/zielarstwo/ziele6"
+		"1": "custom/zielarstwo/ziele6"
 	},
 	"elements": [
 		{
