@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/piston_inventory",
-  "textures": {
-   "layer0": "minecraft:item/piston"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/gu/upgrade"}]
-}
-

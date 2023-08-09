@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/birch_fence_gate",
-  "textures": {
-   "layer0": "minecraft:item/birch_fance_gate"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/custom_items/gu/invite"}]
-}
-
